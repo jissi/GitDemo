@@ -1,1 +1,4 @@
 feature branch
+merge master and feature
+dev branch has modified this file
+now feature branch change it again
